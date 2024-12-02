@@ -33,5 +33,6 @@
 /.vs
 
 # Debugging artifcats
-/Debug
 /**/Debug
+/**/Release
+
