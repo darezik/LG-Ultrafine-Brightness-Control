@@ -14,6 +14,7 @@ This project is derived from the CLI tool [LG-Ultrafine-Brightness](https://gith
 - **Real-time Brightness Adjustment**: Adjust the brightness using an interactive slider or keyboard keys.
 - **Dynamic Connection Support**: Handles monitor connections and disconnections gracefully.
 - **Lightweight Interface**: Minimal UI design for a focused and intuitive user experience.
+- **Reads Current Brightness**: Starts out with the slider set to the monitor's current brightness.
 
 ## Build Instructions
 
@@ -25,7 +26,7 @@ This project is derived from the CLI tool [LG-Ultrafine-Brightness](https://gith
 ## Usage
 
 1. **Run the Program**:
-   - Launch the application executable.
+   - Launch the application executable, if you don't wish to build it yourself it is in the [release](https://github.com/darezik/LG-Ultrafine-Brightness-Control/releases/tag/v1.0.0)
 2. **Adjust Brightness**:
    - Use the slider with your mouse to change brightness.
    - Alternatively, use the left and right arrow keys to change brightness.
